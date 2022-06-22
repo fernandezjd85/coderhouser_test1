@@ -2,5 +2,6 @@
 
 int main(){
     print("hola mundo");
+    print("hola mundo");
     return 0;
 }
